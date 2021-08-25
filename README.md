@@ -4,4 +4,4 @@
 2. Shortest Job First
 3. Round Robin
 
-Scheduler.py has all the implementation of this algorithms with a gantt chart as well. 
+Scheduler.py has the implementation of this algorithms with a gantt chart as well. 
