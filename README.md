@@ -1,4 +1,4 @@
-# CS 370 - Operating Systems 
+# CS 370 - Operating Systems Project
 ## Implemented 3 Scheduling Algorithms 
 1. First Come First Server (FCFS)
 2. Shortest Job First
